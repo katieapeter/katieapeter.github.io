@@ -13,7 +13,8 @@ h1{
 }
 
 p1{
-	color: orange;
+	color: black;
+	font-family: Lucida;
 	font-size: 40px;
 	text-align: center;
 	
@@ -22,7 +23,8 @@ p1{
 }
 
 ul{
-	color: purple;
+	color: black;
+	font-family: Lucida;
 	font-size: 40px;
 	text-align: center;
 }
