@@ -1,8 +1,8 @@
 body {
-	 background-image: url("large.jpg");
-	background-color: white;
+	 
+	
 }
-
+#image{background-image: url("large.jpg");}
 h1{ 
 	color: black; 
 	font-family: Lucida;
