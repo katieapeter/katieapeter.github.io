@@ -3,12 +3,13 @@ body {
 	
 }
 #image{background-image: url("large.jpg");
+background-color: #C3D5F8;
 height:100px;
 width:100%;
 }
 
 h1{ 
-	color: black; 
+	color: white; 
 	font-family: Impact;
 	font-size: 100px;
 	text-align: center;
