@@ -2,31 +2,63 @@ body {
 	 
 
 
-background-color: purple;
+background-image: url("stack.jpg");
+background-repeat: no-repeat;
+background-size: 2006px 1351px;
 height:100px;
 width:100%;
 }
 
-h1{ 
-	color: white; 
+.heading{color: #989898;  
 	font-family: impact;
 	font-size: 100px;
 	text-align: center;
-	padding-top: 50px;
+	padding-top: 200px;
 	padding-right: 50px;
 	padding-left: 50px;
-	background-color: purple;
 }
 
-p1{
-	color: white;
+
+	
+.intro{
+	color: #596673;
 	font-family: sans-serif;
 	font-size: 40px;
 	text-align: center;
-	
-	
+	padding-left: 100px;
+	padding-top: 150px;
 
 }
+
+	
+	.btn-group a{
+		padding-top: 40px;
+		padding-bottom: 30px;
+		padding-left: 30px;
+		padding-right: 30px;
+		font-family: sans-serif;
+	    text-align: center;
+	    font-weight: 700;
+	    border: 0 none;
+	    color: white;
+	    border-radius: 24px;
+	    background: #989898;
+	    font-size: 30px;
+
+	}
+
+
+.btn btn-info btn-lg{
+	background-color: pink;
+}
+
+
+
+div{
+	padding-top: 150px;
+	padding-left: 45px;
+}
+
 
 ul{
 	color: white;
